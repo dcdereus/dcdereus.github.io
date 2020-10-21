@@ -1,2 +1,2 @@
 # dcdereus.github.io
-Personal portfolio page
+Personal portfolio page for my portfolio
